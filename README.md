@@ -1,16 +1,6 @@
 # quickride
+# output
+![image](https://github.com/user-attachments/assets/d1fa5677-9d29-4e32-9ed5-d6c7674f9820)
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/fe929e90-ec51-4e04-8f50-e03cf09dddef)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
